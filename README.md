@@ -2,7 +2,7 @@
 
 Personal portfolio website built with HTML & CSS, hosted on GitHub Pages.
 
-🔗 **Live Site:** [nithya-kattimani.github.io](https://nithya-kattimani.github.io)
+🔗 **Live Site:** [nithya-kattimani.github.io](https://nithya-kattimani.github.io/Portfolio/)
 
 ---
 
